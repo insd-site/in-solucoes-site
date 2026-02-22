@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apple/SaaS Clean vibe */
+:root { color-scheme: dark; }
+html, body { height: 100%; }
+body { background: #0B0F14; }
+::selection { background: rgba(255,255,255,.14); }

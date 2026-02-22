@@ -1,0 +1,6 @@
+Coloque aqui:
+- in-logo.png (logo da IN)
+- incontrol-logo.png
+- remote-order-logo.png
+- ivan.jpg (foto)
+- prints do InControl (incontrol-1.png, incontrol-2.png...)
