@@ -10,7 +10,7 @@ export const BRAND = {
 export const LINKS = {
   whatsapp: `https://wa.me/${BRAND.whatsappNumber}`,
   incontrolInstaller:
-    "https://www.mediafire.com/file/fvgccwscr60aa2l/InControl+Installer.exe/file",
+    "https://www.mediafire.com/file/49npms33214cclk/InControl_Installer_v1.6.exe/file",
 };
 
 export const NAV = [
